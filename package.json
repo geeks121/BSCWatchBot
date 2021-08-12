@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "etherscan-api": "^10.0.0",
+    "bscscan-api": "^1.0.1",
     "node-cron": "^2.0.3",
     "node-telegram-bot-api": "^0.30.0"
   },
