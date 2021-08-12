@@ -14,7 +14,7 @@ const options = {
         port: process.env.PORT
     }
 };
-const url = process.env.APP_URL;
+//const url = process.env.APP_URL;
   
 const telegramBotToken = process.env.TOKEN;
 const bot = new TelegramBot(telegramBotToken, options);
